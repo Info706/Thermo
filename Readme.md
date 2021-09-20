@@ -155,17 +155,31 @@ Le client Web est alors déployé avec le péfixe _/Thermo_.
 
 ## Documentation : ##
 
-JavaEE 7 (Oracle)
+Java EE 7 (Oracle)
 - Doc : http://docs.oracle.com/javaee/7
 - Tutoriel : https://docs.oracle.com/javaee/7/tutorial
 - API (javadoc) : http://docs.oracle.com/javaee/7/api
-- Spécifications : https://www.oracle.com/technetwork/java/javaee/tech/index-jsp-142185.html
+- Spécifications : https://www.oracle.com/java/technologies/javaee/javaeetechnologies.html#javaee7
 
-JaveEE 8 (Oracle)
+Jave EE 8 (Oracle)
 - Doc : https://javaee.github.io/glassfish/documentation
 - Tutoriel : https://javaee.github.io/tutorial/
-- API (javadodc : https://javaee.github.io/javaee-spec/javadocs/
-- Spécifications : https://www.oracle.com/technetwork/java/javaee/tech/java-ee-8-3890673.html
+- API (javadoc) : https://javaee.github.io/javaee-spec/javadocs/
+- Spécifications : https://www.oracle.com/java/technologies/javaee/javaeetechnologies.html#javaee8
+- Serveurs compatibles : https://www.oracle.com/java/technologies/compatibility-jsp.html
 
-JakartaEE (Fondation eclipse)
-- https://jakarta.ee/
+Jakarta EE 8 (Fondation Eclipse)
+- Doc : https://javaee.github.io/glassfish/documentation
+- Tutoriel : https://javaee.github.io/tutorial/
+- API (javadoc) : https://jakarta.ee/specifications/platform/8/apidocs/
+- Spécifications : https://jakarta.ee/specifications
+- Serveurs compatibles : https://jakarta.ee/compatibility/#tab-8
+
+Jakarta EE 9 (Fondation Eclipse)
+- Doc : https://jakarta.ee/resources/#documentation
+- Tutoriel : https://eclipse-ee4j.github.io/jakartaee-tutorial/
+- API (javadoc) : https://jakarta.ee/specifications/platform/9/apidocs/
+- Spécifications : https://jakarta.ee/specifications
+- Serveurs compatibles : 
+    - https://jakarta.ee/compatibility/#tab-9
+    - https://jakarta.ee/compatibility/#tab-9-1
