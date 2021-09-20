@@ -151,7 +151,7 @@ Cela devrait permettre la création d'un projet (ou module) web.
 La compilation des classes et la création de l'archive war peut se faire via gradle en appelant la tâche `build` sur le projet principal.
 
 Pour utiliser l'exemple il suffit de déployer le fichier _Thermo.war_ sur un serveur JavaEE 8. 
-Le client Web est alors déployé avec le péfixe _/Thermo_.
+Le client Web est alors déployé avec le préfixe _/Thermo_.
 
 ## Documentation : ##
 
